@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\SumAnArray\SumAnArray\bin\Debug\net8.0\SumAnArray.exe
+C:\Users\ninag\RiderProjects\SumAnArray\SumAnArray\bin\Debug\net8.0\SumAnArray.deps.json
+C:\Users\ninag\RiderProjects\SumAnArray\SumAnArray\bin\Debug\net8.0\SumAnArray.runtimeconfig.json
+C:\Users\ninag\RiderProjects\SumAnArray\SumAnArray\bin\Debug\net8.0\SumAnArray.dll
+C:\Users\ninag\RiderProjects\SumAnArray\SumAnArray\bin\Debug\net8.0\SumAnArray.pdb
+C:\Users\ninag\RiderProjects\SumAnArray\SumAnArray\obj\Debug\net8.0\SumAnArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\SumAnArray\SumAnArray\obj\Debug\net8.0\SumAnArray.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\SumAnArray\SumAnArray\obj\Debug\net8.0\SumAnArray.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\SumAnArray\SumAnArray\obj\Debug\net8.0\SumAnArray.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\SumAnArray\SumAnArray\obj\Debug\net8.0\SumAnArray.dll
+C:\Users\ninag\RiderProjects\SumAnArray\SumAnArray\obj\Debug\net8.0\refint\SumAnArray.dll
+C:\Users\ninag\RiderProjects\SumAnArray\SumAnArray\obj\Debug\net8.0\SumAnArray.pdb
+C:\Users\ninag\RiderProjects\SumAnArray\SumAnArray\obj\Debug\net8.0\SumAnArray.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\SumAnArray\SumAnArray\obj\Debug\net8.0\ref\SumAnArray.dll
